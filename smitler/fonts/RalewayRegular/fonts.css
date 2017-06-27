@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'RalewayRegular';
+	src: url('fonts/RalewayRegular.eot');
+	src: local('☺'), url('fonts/RalewayRegular.woff') format('woff'), url('fonts/RalewayRegular.ttf') format('truetype'), url('fonts/RalewayRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
